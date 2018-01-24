@@ -15,14 +15,14 @@ Repositorio del proyecto NeverBuy, realizado en la asignatura Desarrollo y Evalu
   - Conjunto de plantillas con la descripción de los escenarios seleccionados de uso del sistema
   - Imágenes con los storyboard creados para los escenario
   - Documento de visión del producto a desarrollar y del alcance del proyecto
-- [Práctica 3: Iteraciones de Diseño (Diseño Conceptual + Diseño Detallado) y sesiones de prueba](https://github.com/ramongago/NeverBuy/tree/master/Prácticas/Practica_3)
+- [Práctica 3: Iteraciones de Diseño (Diseño Conceptual + Diseño Detallado) y sesiones de prueba](https://github.com/ramongago/NeverBuy/tree/master/Practicas/Practica_3)
   - Documento de planificación de iteraciones
   - Documento de arquitectura de la información
   - Diagramas de wireFlows
   - Bocetos de las pantallas (digiatlizados y en papel)
   - Documento de análisis de test
   - Informes de evaluación de cada una de las iteracciones
-- [Práctica 4: Evaluación final de la aplicación y lanzamiento](https://github.com/ramongago/NeverBuy/tree/master/Prácticas/Practica_4)
+- [Práctica 4: Evaluación final de la aplicación y lanzamiento](https://github.com/ramongago/NeverBuy/tree/master/Practicas/Practica_4)
   - Evaluación con usuarios
   - Presentación final del proyecto
   - Desarrollo del sitio web del proyecto
