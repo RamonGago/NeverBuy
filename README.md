@@ -1,12 +1,14 @@
 # NeverBuy
 Repositorio del proyecto NeverBuy, realizado en la asignatura Desarrollo y Evaluación de Sistemas Software Interactivos impartida en el Máster Profesional de Ingeniería Informática en la UGR.
 
+## [WEB](https://ramongago.github.io/NeverBuy/)
+
 ## Prácticas
 
 - [Práctica 1: Selección de software a desarrollar](https://github.com/RamonGago/NeverBuy/tree/master/Practicas/Practica%20_1)
   - Documento de descripción inicial del problema
-  - Título del proyecto y pequeña descripción del mismo (en base a la descripción de un problema y una posible solución)
-  - Mapa Mental realizado durante la reunión o reuniones de creación de ideas. (entregar una imagen donde se muestre el mapa creado)
+  - Título del proyecto y pequeña descripción del mismo
+  - Mapa Mental realizado durante la reunión o reuniones de creación de ideas
   - Informe del análisis de mercado realizado con las conclusiones obtenidas y los sistemas analizados
 - [Práctica 2: Descripcion inicial del problema](https://github.com/RamonGago/NeverBuy/tree/master/Practicas/Practica%20_2)
   - Conjunto de plantillas con la descripción de usuarios prioritarios del sistema
